@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570982281 source:c:\users\ak161\downloads\tic toc  game\tic toc game.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
